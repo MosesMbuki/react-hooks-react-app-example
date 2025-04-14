@@ -13,13 +13,7 @@ function App() {
         HTML, and also allows us to add in components, which are separate,
         self-contained chunks of JSX.
       </p>
-          <div className="example">
-      <img
-        src="https://s3.amazonaws.com/ironboard-learn/sunglasses.gif"
-        alt="a deeply impressed man, perhaps thinking 'whoa'"
-      />
-      <p>Whoa!</p>
-    </div>
+      
       <ExampleComponent /> 
       <TestComponent />
     </div>
